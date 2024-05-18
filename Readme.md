@@ -1,5 +1,21 @@
 # Task Management API Documentation
 
+## sequence of commands for cloning and running locally:
+
+```sh
+# Clone the repository
+git clone https://github.com/moaz-shamim/Backend-Development-Assignment
+
+# Navigate to the project directory
+cd Backend-Development-Assignment
+
+# Install dependencies
+npm install
+
+# Run the application
+npm run dev
+```
+
 ## Base URL
 
 ```
