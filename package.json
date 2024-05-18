@@ -1,0 +1,18 @@
+{
+    "name": "backend-development-assignment",
+    "version": "1.0.0",
+    "description": "Building a RESTful API",
+    "main": "index.js",
+    "scripts": {
+      "dev": "nodemon src/index.js"
+    },
+    "author": "Md Moaz Shamim",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    },
+    "devDependencies": {
+      "nodemon": "^3.1.0"
+    }
+  }
+  
